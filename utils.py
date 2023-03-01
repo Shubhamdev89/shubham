@@ -380,4 +380,4 @@ def humanbytes(size):
     return str(round(size, 2)) + " " + Dic_powerN[n] + 'B'
 
 async def get_shortlink(link):
-    return f"https://moneykamalo.com/st?api={SHORTENER_API}&url={link}"
+    return f"https://tinyfy.in/st?api={SHORTENER_API}&url={link}"
