@@ -12,10 +12,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/anumitultrabotssBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="anumitultrabots's Bot Logo">
+  <img src="https://github.com/Auto_Filter_Bot_UpdatessBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="Auto_Filter_Bot_Updates's Bot Logo">
 </p>
 <h1 align="center">
-  <b>anumitultrabots's Bot</b>
+  <b>Auto_Filter_Bot_Updates's Bot</b>
 </h1>
 
 
@@ -40,7 +40,7 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/anumitultrabots) before you start messing up with your edits.
+Read [this](https://telegram.dog/Auto_Filter_Bot_Updates) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -54,7 +54,7 @@ Read [this](https://telegram.dog/anumitultrabots) before you start messing up wi
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/anumitultrabotssBot/url-auto-delete-shortener-bot/blob/main/info.py) for more
+* Check [info.py](https://github.com/Auto_Filter_Bot_UpdatessBot/url-auto-delete-shortener-bot/blob/main/info.py) for more
 ## EXTRA FEATURES
 * `URL_SHORTENR_WEBSITE`: URL Shortener Website Link ( Without https://)
 * `URL_SHORTNER_WEBSITE_API`: URL Shortener Website API key
@@ -78,12 +78,12 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/anumitultrabotssBot/url-auto-delete-shortener-bot&branch=koyeb&name=urlshortautofilterbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Auto_Filter_Bot_UpdatessBot/url-auto-delete-shortener-bot&branch=koyeb&name=urlshortautofilterbot)
 
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/anumitultrabotssbot/url-auto-delete-shortener-bot
+git clone https://github.com/Auto_Filter_Bot_Updatessbot/url-auto-delete-shortener-bot
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -122,8 +122,8 @@ batch - to create link for multiple posts
 link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/anumitultrabotss_bots_discussion)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/anumitultrabots)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/Auto_Filter_Bot_Updatess_bots_discussion)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/Auto_Filter_Bot_Updates)
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
